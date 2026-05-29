@@ -73,5 +73,3 @@ try:
 
 except Exception as e:
     print("Audio Error:", e)
-
-print("\n===== ALL TASKS COMPLETED =====")
